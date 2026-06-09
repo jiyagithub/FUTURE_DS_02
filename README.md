@@ -44,6 +44,7 @@ This project focuses on analyzing customer churn behavior in the telecommunicati
 ## Dashboard Preview
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/32fb666e-3211-4591-8269-6369a6c76f6f" />
 
+## Dashboard Link: https://public.tableau.com/app/profile/jiya.jiya2812/viz/TELCOCUSTOMERCHURNANALYSISDASHBOARD/TELCOCUSTOMERCHURNANALYSISDASHBOARD?publish=yes
 
 ## Project Outcome
 
